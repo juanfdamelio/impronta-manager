@@ -55,7 +55,7 @@ public/
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/impronta-manager.git
+git clone https://github.com/juanfdamelio/impronta-manager.git
 cd impronta-manager
 
 # Instalar dependencias
@@ -104,7 +104,7 @@ curl -X POST http://localhost:3000/api/orders \
 
 ## 📸 Capturas
 
-*(Agregá capturas del dashboard y la vista de pedidos acá)*
+*(Agregá capturas del dashboard y la vista de pedidos acá)* PROXIMAMENTE
 
 ---
 
@@ -112,5 +112,5 @@ curl -X POST http://localhost:3000/api/orders \
 
 **Juan Francisco Damelio**
 - [LinkedIn](https://www.linkedin.com/in/juan-francisco-damelio-9106483ba)
-- [GitHub](https://github.com/tu-usuario)
+- [GitHub](https://github.com/juanfdamelio)
 - Email: dameliojuanfrancisco@gmail.com
